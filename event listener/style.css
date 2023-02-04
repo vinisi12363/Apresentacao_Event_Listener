@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.button{
+ height: 30px;
+ width: 100px;
+}
+
+.main{
+    background-color: #e8e4e4;
+    width: 200px;
+    height: 200px;
+    border: black 4px solid;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items:center ;
+}
